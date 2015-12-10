@@ -18,6 +18,7 @@
     [super viewDidLoad];
     self.view.backgroundColor=[UIColor whiteColor];
     self.navigationItem.title=@"测试";
+    NSLog(@"%@",@"dsa");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
